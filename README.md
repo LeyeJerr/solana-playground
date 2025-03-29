@@ -1,4 +1,4 @@
-# Solana Playground
+# Solana
 
 [SolPg](https://beta.solpg.io) allows you to quickly develop, deploy and test [Solana](https://docs.solana.com/introduction) programs(smart contracts) from browsers.
 
@@ -59,7 +59,7 @@ yarn --version
 
 ## Contributing
 
-Anyone is welcome to contribute to **Solana Playground,** no matter how big or small the contribution.
+Anyone is welcome to contribute to **Solana** no matter how big or small the contribution.
 
 ## License
 
